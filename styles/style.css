@@ -187,3 +187,34 @@ body{
 
 }
 /* main section two end */
+/* main section three start */
+.instagram{
+    background-color: #FFF;
+    padding: 60px 100px 100px 100px;
+}
+.instagram-h2{
+    text-align: center;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.instagram-p{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+.instagram-container{
+    height: 270px;
+    width: 300px;
+    display: flex;
+    padding-left: 50px;
+}
+.instagrams{
+    padding-left: 20px;
+}
+/* main section three end */
