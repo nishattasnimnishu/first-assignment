@@ -1,0 +1,40 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.beautiful-flowers-container{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    padding: 0 150px;
+    height: 550px;
+}
+.flowers{
+    padding: 80px 140px 0 0;
+    gap: 97px;
+    display: inline;
+    text-align: left;
+}
+.flower-h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+}
+.flower-p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.flower-image{
+    padding-top: 50px;
+    width: 435px;
+    height: 500px;
+    
+}
+.btn-color{
+    color: white;
+    background-color: #E55473;
+    padding: 15px 43px;
+    border-radius: 7px;
+    border-color: #E55473;
+}
+
