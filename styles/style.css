@@ -218,3 +218,47 @@ body{
     padding-left: 20px;
 }
 /* main section three end */
+/* main section start */
+.banner{
+    background-image: url('../images/Rectangle 9.png');
+    background-repeat: no-repeat;
+    margin: 0 160px;
+    padding: 100px 0;
+}
+.banner-h1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.banner-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+.email{
+    display: flex;
+    padding: 0 150px;
+}
+.email input{
+    margin: 0 20px 25px 0px;
+    padding-left: 18px;
+    width: 500px;
+    height: 64px;
+    border-radius: 7px;
+    border-color: #FFF;
+}
+.btn-color1{
+    color: white;
+    background-color: #E55473;
+    border-radius: 7px;
+    border-color: #E55473;
+    width: 150px;
+    height: 64px;
+}
+/* main section end */
