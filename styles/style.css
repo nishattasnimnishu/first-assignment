@@ -38,3 +38,63 @@ body{
     border-color: #E55473;
 }
 
+/* main section one start */
+.featured-flowers{
+    background: #FFF;
+    padding: 100px;
+}
+.featured-h2{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.featured-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+.featured-flowers-container{
+    display: flex;
+}
+.flower{ 
+    text-align: center;
+    padding-left: 24px;
+    gap: 24px;
+}
+.picture-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 210px;
+    height: 328px;
+    padding: 70px 50px 0 50px;
+    margin-left: 54px;
+}
+.picture-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 210px;
+    height: 328px;
+    padding: 70px 50px 0 50px;
+}
+.picture-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 210px;
+    height: 328px;
+    padding: 70px 50px 0 50px;
+}
+.pink-p{
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+}
+/* main section one end */
